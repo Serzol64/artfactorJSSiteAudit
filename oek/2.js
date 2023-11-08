@@ -8,11 +8,13 @@ for (var i = 0; i < links.length; i++) {
   if(isDocument){
 	  fetch(linkHref).then(afterSuccessScan).catch(afterFailedScan);
   }
+  else{ console.error('Неподдерживаемый формат!!!\n'); }
 		
 }
 
 function afterSuccessScan(response){
 	if(response.ok){ console.log('Документ по ссылке найден: ' + response.url + '\n'); }
+	else{ console.error('Не удалось найти документ по ссылке: ' + response.url + '\n'); }
 }
 function afterFailedScan(error){
 	console.error('Не удалось найти документ по ссылке: ' + error.url + '\n');
