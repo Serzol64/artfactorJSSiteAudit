@@ -28,10 +28,9 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=2
-FILE_NAME_0=0;Javascript;0;EUTF-8;1;1;0;C%3A%5CUsers%5C79379%5CDocuments%5CmarkizaTest%5Coek%5C1.js;0;4
-FILE_NAME_1=0;Javascript;0;EUTF-8;1;1;0;C%3A%5CUsers%5C79379%5CDocuments%5CmarkizaTest%5Coek%5C2.js;0;4
-FILE_NAME_2=468;Javascript;0;EUTF-8;1;1;0;%5CUsers%5C79379%5CDocuments%5CmarkizaTest%5Coek%5C2_1.js;0;4
+current_page=1
+FILE_NAME_0=0;Javascript;0;EUTF-8;1;1;0;C%3A%5CUsers%5C79379%5CDocuments%5CmarkizaTest%5Coek%5C2_2.js;0;4
+FILE_NAME_1=0;Javascript;0;EUTF-8;1;1;0;C%3A%5CUsers%5C79379%5CDocuments%5CmarkizaTest%5Cbooster%5C1.js;0;4
 
 [prjorg]
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;*.m;
@@ -41,7 +40,7 @@ ignored_file_patterns=*.o;*.obj;*.a;*.lib;*.so;*.dll;*.lo;*.la;*.class;*.jar;*.p
 generate_tag_prefs=0
 show_empty_dirs=true
 external_dirs=
-expanded_paths=C:\\Users\\79379\\Documents\\markizaTest\\oek;
+expanded_paths=C:\\Users\\79379\\Documents\\markizaTest\\artfactor;C:\\Users\\79379\\Documents\\markizaTest\\booster;C:\\Users\\79379\\Documents\\markizaTest\\oek;C:\\Users\\79379\\Documents\\markizaTest\\prk-spb;C:\\Users\\79379\\Documents\\markizaTest\\schwartz;
 
 [VTE]
 last_dir=/home/sergey/Рабочий стол/Sergey/myProjects/medicalControl/frontend
